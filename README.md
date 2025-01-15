@@ -25,7 +25,7 @@ Hi, I'm **Unib Tanwar**, a passionate **SOC Analyst** with expertise in monitori
 ### 🔍 **Threat Hunting with Elastic**
 - **Description**: Developed custom dashboards and alerts to monitor suspicious activities in a home network.
 - **Key Features**: Log parsing,automated alert generation.
-- **Repository**: [Threat-Hunting-Splunk](#)
+- **Repository**: https://github.com/Cyrax46/Elastic-siem/tree/main
 
 ### 📈 **Malware analysis lab**
 - **Description**:A dedicated environment for analyzing, dissecting, and understanding malware behavior to enhance threat detection and mitigation strategies .
