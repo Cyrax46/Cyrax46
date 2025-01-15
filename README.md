@@ -30,8 +30,7 @@ Hi, I'm **Unib Tanwar**, a passionate **SOC Analyst** with expertise in monitori
 ### 📈 **Malware analysis lab**
 - **Description**:A dedicated environment for analyzing, dissecting, and understanding malware behavior to enhance threat detection and mitigation strategies .
 - **Key Features**: Isolated environment,Static and dynamic analysis,Network simulation.
-- **Repository**: [SIEM-Rule-Optimization](#)
-
+- **Repository**: https://github.com/Cyrax46/Malware-analysis-lab/tree/main
 ---
 
 ## 📚 Certifications
